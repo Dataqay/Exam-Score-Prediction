@@ -4,7 +4,7 @@ import numpy as np  # pyright: ignore[reportUnusedImport]
 from sklearn.linear_model import LinearRegression  # pyright: ignore[reportUnusedImport]
 
 # Load dataset
-data = pd.read_excel("C:/Users/DATAQAY/my_project/pridiction_2/student_scores_2000.xlsx") # pyright: ignore[reportUnknownMemberType]
+data = pd.read_excel("student_scores_2000.xlsx")# pyright: ignore[reportUnknownMemberType]
 
 
 
