@@ -4,4 +4,4 @@ matplotlib
 scikit-learn
 xlsxwriter
 openpyxl
-
+seaborn
